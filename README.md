@@ -1,7 +1,7 @@
 # iOS Development Templates
 
 <details>
-<summary>UIKit MVVM Protocol Oriented Controller</summary>
+<summary><b>UIKit MVVM Protocol Oriented Controller</b></summary>
 <p>
   
 **Controller**
