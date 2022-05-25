@@ -1,8 +1,8 @@
-# iOS Development Templates
+The cool / useful templates that can be used in iOS development
 
-<details>
-<summary><b>UIKit MVVM Protocol Oriented Controller</b></summary>
-<p>
+- [UIKit MVVM Protocol Oriented Controller](#uikit-mvvm-protocol-oriented-controller)
+
+## UIKit MVVM Protocol Oriented Controller
   
 **Controller**
 ```swift
@@ -75,5 +75,3 @@ protocol MyTemplatesOutput: AnyObject {
     func refresh()
 }
 ```
-</p>
-</details>  
