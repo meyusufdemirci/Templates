@@ -4,7 +4,7 @@ The cool / useful templates that can be used in iOS development
 
 ## UIKit MVVM Protocol Oriented Controller
   
-**Controller**
+#### Controller
 ```swift
 class MyTemplatesController: UIViewController {
 
@@ -41,7 +41,7 @@ extension MyTemplatesController: MyTemplatesOutput {
 }
 ```
   
-**View Model**
+#### View Model
 ```swift
 class MyTemplatesViewModel {
 
@@ -65,7 +65,7 @@ extension MyTemplatesViewModel: MyTemplatesInput {
 }
 ```
 
-**Protocols**
+#### Protocols
 ```swift
 protocol MyTemplatesInput: AnyObject {
     func viewDidLoad()
