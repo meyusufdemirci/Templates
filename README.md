@@ -1,5 +1,12 @@
 The cool / useful templates that can be used in iOS development
 
+# Usage
+
+- Run the `Install` script, the templates will be imported into Xcode
+- When you try to add `New File`, you will see the templates under the `My Templates` section
+
+# Templates
+
 - [UIKit MVVM Protocol Oriented Controller](#uikit-mvvm-protocol-oriented-controller)
 
 ## UIKit MVVM Protocol Oriented Controller
